@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b6c96a1.chunk.css",
+    "main.js": "/static/js/main.9caa5f4b.chunk.js",
+    "main.js.map": "/static/js/main.9caa5f4b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.931e61bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.931e61bc.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.dd8a10a3.chunk.js": "/static/js/2.dd8a10a3.chunk.js",
+    "static/js/2.dd8a10a3.chunk.js.map": "/static/js/2.dd8a10a3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.5b6c96a1.chunk.css.map": "/static/css/main.5b6c96a1.chunk.css.map",
+    "static/js/2.dd8a10a3.chunk.js.LICENSE.txt": "/static/js/2.dd8a10a3.chunk.js.LICENSE.txt",
+    "static/media/DEEPAK_IMAGE.61904c9b.jpg": "/static/media/DEEPAK_IMAGE.61904c9b.jpg",
+    "static/media/github.44eee0c4.png": "/static/media/github.44eee0c4.png",
+    "static/media/google-plus.aa901a22.png": "/static/media/google-plus.aa901a22.png",
+    "static/media/twitter.67ad063d.png": "/static/media/twitter.67ad063d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931e61bc.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.dd8a10a3.chunk.js",
+    "static/css/main.5b6c96a1.chunk.css",
+    "static/js/main.9caa5f4b.chunk.js"
+  ]
+}
