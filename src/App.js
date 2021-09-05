@@ -17,10 +17,10 @@ const App = () => {
             <Navbar />
             <Switch>
                
-                <Route exact path="/" component={Resume}/>
-                <Route path="/resume" component={Resume}/>
-                <Route path="/experiance" component={Experiance}/>
-                <Route path="/contact" component={ContactUs}/>
+                <Route exact path="https://deepak-jaiswal138.github.io/Portfolio/" component={Resume}/>
+                <Route path="https://deepak-jaiswal138.github.io/Portfolio/resume" component={Resume}/>
+                <Route path="https://deepak-jaiswal138.github.io/Portfolio/experiance" component={Experiance}/>
+                <Route path="https://deepak-jaiswal138.github.io/Portfolio/contact" component={ContactUs}/>
 
             </Switch>
             <Footer />
