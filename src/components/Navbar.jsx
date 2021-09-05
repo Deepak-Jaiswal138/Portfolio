@@ -15,18 +15,18 @@ const Navbar = () => {
       <ul className="navbar-nav mx-3">
          
         <li className="nav-item">
-          <Link className="nav-link active mx-3" aria-current="page" to='/'>Home</Link>
+          <Link className="nav-link active mx-3" aria-current="page" to='https://deepak-jaiswal138.github.io/Portfolio/'>Home</Link>
         </li>
         <li className="nav-item">
             
-          <Link className="nav-link mx-3" to='/resume'>Resume</Link>
+          <Link className="nav-link mx-3" to='https://deepak-jaiswal138.github.io/Portfolio/resume'>Resume</Link>
           
         </li>
         <li className="nav-item">
-           <Link className="nav-link mx-3" to='/experiance'>Experiance</Link>
+           <Link className="nav-link mx-3" to='https://deepak-jaiswal138.github.io/Portfolio/experiance'>Experiance</Link>
         </li>
         <li className="nav-item">
-           <Link className="nav-link mx-3" to='/contact'>Contact Us</Link>
+           <Link className="nav-link mx-3" to='https://deepak-jaiswal138.github.io/Portfolio/contact'>Contact Us</Link>
         </li>
      
       </ul>
